@@ -1,12 +1,13 @@
 <h1 style="display: flex; align-items: center;">👋 Hi, I’m @Danvalcor!<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpzcWwwODJ1eTJlN2p5Nm1lM25mdjlsMzY4Y2d6MHNxbWNkamYyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/szHGzuRlbEuP2gfpvP/giphy.gif" height="80"></h1>
 
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <img align='right' src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" height="220">
   </div>
   <div style="flex: 1;">
     Currently studying a bachelor's in Robotics Engineering at <a href="http://www.udem.edu">Universidad de Monterrey</a>.
+    <br>
+    <br>
   </div>
 
 - 👀 I’m passionate about reading and binge-watching series.

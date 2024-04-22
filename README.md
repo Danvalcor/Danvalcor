@@ -53,18 +53,18 @@ daniel = {
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;" class="repos">
   <div style="margin: 10px;">
-    <a href="https://github.com/Danvalcor/LeetCode">
+    <a href="https://github.com/Danvalcor/LeetCode" style="max-width: 30%;">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=dracula&border_radius=10" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=radical&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=dracula&border_radius=10" alt="LeetCode" height="150">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=dracula&border_radius=10" alt="LeetCode" height="150" style="max-width: 100%;">
       </picture>
     </a>
-    <a href="https://github.com/Danvalcor/ADNI-FreeSurfer-Segmentation">
+    <a href="https://github.com/Danvalcor/ADNI-FreeSurfer-Segmentation" style="max-width: 30%;">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=dracula&border_radius=10" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=radical&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=dracula&border_radius=10" alt="ADNI-FreeSurfer-Segmentation" height="150">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=dracula&border_radius=10" alt="ADNI-FreeSurfer-Segmentation" height="150" style="max-width: 100%;">
       </picture>
     </a>
   </div>
@@ -74,29 +74,30 @@ daniel = {
 ## My profile overview:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;" class="profile">
   <div style="margin: 10px;">
-    <a href="https://github.com/Danvalcor/">
+    <a href="https://github.com/Danvalcor/" style="max-width: 50%;">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=danvalcor&show_icons=true&theme=dracula&border_radius=10&rank_icon=github" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=danvalcor&show_icons=true&theme=radical&border_radius=10&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=danvalcor&show_icons=true&theme=dracula&border_radius=10&rank_icon=github" alt="GitHub Stats" height="200">
+        <img src="https://github-readme-stats.vercel.app/api?username=danvalcor&show_icons=true&theme=dracula&border_radius=10&rank_icon=github" alt="GitHub Stats" height="200" style="max-width: 100%;">
       </picture>
     </a>
-    <a href="https://github.com/Danvalcor/">
+    <a href="https://github.com/Danvalcor/" style="max-width: 30%;">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Danvalcor&layout=donut&theme=dracula&border_radius=10" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Danvalcor&layout=donut&theme=radical&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danvalcor&layout=donut&theme=dracula&border_radius=10" alt="Top Languages" height="200">
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Danvalcor&layout=donut&theme=dracula&border_radius=10&card_width=320" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Danvalcor&layout=donut&theme=radical&border_radius=10&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danvalcor&layout=donut&theme=dracula&border_radius=10" alt="Top Languages" height="200" style="max-width: 100%;">
       </picture>
     </a>
-    <a href="https://github.com/Danvalcor/">
+    <a href="https://github.com/Danvalcor/" style="max-width: 30%;">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Danvalcor&theme=dracula&layout=compact" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Danvalcor&theme=radical&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Danvalcor&theme=dracula&layout=compact" alt="Warloktimes" height="150">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Danvalcor&theme=dracula&layout=compact" alt="Warloktimes" height="150" style="max-width: 100%;">
       </picture>
     </a>
   </div>
 </div>
+
 
  
  <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ1OWJuMzM2bHdscTIwdzNreWJrY3I3YWF5M3kwbnVqMWtxMmowbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lSsgFhD1q8rVDDHgI4/giphy.gif" height="220">

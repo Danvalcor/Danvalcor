@@ -6,7 +6,7 @@
     <img align='right' src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" height="220">
   </div>
   <div style="flex: 1;">
-    Currently studying a bachelor's in Robotics Engineering at <a href="http://www.udem.edu">UDEMy</a>.
+    Currently studying a bachelor's in Robotics Engineering at <a href="http://www.udem.edu">UDEM</a>.
     <br>
     <br>
   </div>

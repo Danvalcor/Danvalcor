@@ -2,6 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
+    <br>
     <img align='right' src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" height="220">
   </div>
   <div style="flex: 1;">

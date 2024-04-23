@@ -58,14 +58,14 @@ daniel = {
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=dracula&border_radius=10" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=radical&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=dracula&border_radius=10" alt="LeetCode" height="150" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=LeetCode&theme=dracula&border_radius=10" alt="LeetCode" style="max-width: 100%;">
       </picture>
     </a>
     <a href="https://github.com/Danvalcor/ADNI-FreeSurfer-Segmentation" style="max-width: 30%;">
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=dracula&border_radius=10" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=radical&border_radius=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=dracula&border_radius=10" alt="ADNI-FreeSurfer-Segmentation" height="150" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danvalcor&repo=ADNI-FreeSurfer-Segmentation&theme=dracula&border_radius=10" alt="ADNI-FreeSurfer-Segmentation" style="max-width: 100%;">
       </picture>
     </a>
   </div>

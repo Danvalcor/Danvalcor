@@ -21,7 +21,7 @@
 <br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danvalcor_?log=x&label=Follow)](https://www.x.com/danvalcor_/)
-[![Linkedin: Danielvalcor](https://img.shields.io/badge/-danielvalcor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielvalcor/)](https://www.linkedin.com/in/danielvalcor/)
+[![Linkedin: Danielvalcor](https://img.shields.io/badge/-danielvalcor-white?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/danielvalcor/)](https://www.linkedin.com/in/danielvalcor/)
 [![Twitch Followers](https://img.shields.io/twitch/status/Theheavenfox?&logoColor=black&logo=twitch&link=https://www.twitch.tv/Theheavenfox)](https://www.twitch.tv/Theheavenfox)
 ![GitHub followers](https://img.shields.io/github/followers/danvalcor?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=danvalcor.danvalcor)
